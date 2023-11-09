@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 I am a Ph.D. Candidate with the [Platial Analysis](https://platial.science/) and [Urban Politics and Governance](https://upgo.lab.mcgill.ca/) labs at McGill University. My primary interests are two-fold. 1️⃣ I work on the application of statistical methods in general and natural language processing in particular to complex social problems. 2️⃣ I am investigating the epistemological and historical foundations of natural language processing and large-language modeling, from the postwar cybernetics movement to contemporary practices. 
 
